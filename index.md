@@ -82,16 +82,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### University of Regensburg
-My complete implementation of assignments in Data Science & Machine Learning by University of Regensburg (Winter, 2020).
+### Data Science & Machine Learning
+My complete implementation of assignments for [***22700/1: Data Science & Machine Learning***](https://www.uni-regensburg.de/wirtschaftswissenschaften/bwl-roesch/lehre/data-science-machine-learning/index.html) at the University of Regensburg (WS 19/20)..
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/Data_science_and_machine_learning)
 
 <center><img src="images/uni_regensburg_DS.png"/></center>
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
 
 
 ---

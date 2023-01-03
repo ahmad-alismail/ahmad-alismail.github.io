@@ -2,17 +2,18 @@
 ---
 ## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Performing initial data investigation is the first step in every data science project. Examining the data helps us understand its structure, discover patterns, and evaluate data quality.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+This is a starter notebook for natural language processing in text processing. It will show you how to summarize and visualize your textual data to gain valuable insights and understanding for your NLP project. It covers text preprocessing and analysis in comprehensive detail.
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+<a href="https://www.kaggle.com/code/afi1289/a-comprehensive-guide-to-text-preprocessing?scriptVersionId=113379465" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/Preparing-Text-for-Natural-Language-Processing)
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/nlp.png"/></center>
+
+<center><img src="images/text_pipeline.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis

@@ -16,9 +16,9 @@ This is a starter notebook for natural language processing in text processing. I
 <center><img src="images/text_pipeline.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Kaggle Competetion: Natural Language Processing with Disaster Tweets
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+<a href="[https://www.kaggle.com/code/afi1289/a-comprehensive-guide-to-text-preprocessing?scriptVersionId=113379465](https://www.kaggle.com/code/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert)" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 

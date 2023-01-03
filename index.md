@@ -82,9 +82,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### University of Regensburg
+My complete implementation of assignments in Data Science & Machine Learning by University of Regensburg (Winter, 2020).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/Data_science_and_machine_learning)
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+<center><img src="images/uni_regensburg_DS.png"/></center>
 
 <div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
 <br>

@@ -23,7 +23,7 @@ This is a starter notebook for natural language processing in text processing. I
 <a href="[https://www.kaggle.com/code/afi1289/a-comprehensive-guide-to-text-preprocessing?scriptVersionId=113379465](https://www.kaggle.com/code/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert)" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></br>
 
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">I performed a quick exploratory data analysis to understand the dataset, performed text cleaning, and fine-tuned BERT to predict which tweets are about real disasters and which are not. My best model had an F1 score of 0.84308, ranking 37th out of 904, or approximately in the top 4% on the Kaggle leaderboard. This notebook provides a beginner-friendly explanation of concepts such as cross-validation, hyperparameter tuning, and fine-tuning transformer-based models.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 

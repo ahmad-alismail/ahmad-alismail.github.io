@@ -11,10 +11,6 @@ Performing initial data investigation is the first step in every data science pr
 
 This is a starter notebook for natural language processing in text processing. It will show you how to summarize and visualize your textual data to gain valuable insights and understanding for your NLP project. It covers text preprocessing and analysis in comprehensive detail.
 
-
-
-
-
 <center><img src="images/text_pipeline.png"/></center>
 
 ---
@@ -25,7 +21,7 @@ This is a starter notebook for natural language processing in text processing. I
 
 <div style="text-align: justify">I performed a quick exploratory data analysis to understand the dataset, performed text cleaning, and fine-tuned BERT to predict which tweets are about real disasters and which are not. My best model had an F1 score of 0.84308, ranking 37th out of 904, or approximately in the top 4% on the Kaggle leaderboard. This notebook provides a beginner-friendly explanation of concepts such as cross-validation, hyperparameter tuning, and fine-tuning transformer-based models.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/nlp-disaster.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI

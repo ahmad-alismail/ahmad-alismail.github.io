@@ -4,7 +4,7 @@
 
 ### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python
 
-<a href="https://www.kaggle.com/code/afi1289/a-comprehensive-guide-to-text-preprocessing?scriptVersionId=113379465" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+<a href="https://www.kaggle.com/code/afi1289/comprehensive-guide-to-text-preprocessing-with?kernelSessionId=116194145" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/Preparing-Text-for-Natural-Language-Processing)
 
 Performing initial data investigation is the first step in every data science project. Examining the data helps us understand its structure, discover patterns, and evaluate data quality.
@@ -15,7 +15,7 @@ This is a starter notebook for natural language processing in text processing. I
 
 ---
 ### Kaggle Competetion: Natural Language Processing with Disaster Tweets
-<a href="https://www.kaggle.com/code/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert?kernelSessionId=111093250" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+<a href="https://www.kaggle.com/code/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert?kernelSessionId=117203647" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 
 <div style="text-align: justify">I performed a quick exploratory data analysis to understand the dataset, performed text cleaning, and fine-tuned BERT to predict which tweets are about real disasters and which are not. My best model had an F1 score of 0.84523, ranking 37th out of 904, or approximately in the top 4% on the Kaggle leaderboard. This notebook provides a beginner-friendly explanation of concepts such as cross-validation, hyperparameter tuning, and fine-tuning transformer-based models.</div>

@@ -15,10 +15,10 @@ This is a starter notebook for natural language processing in text processing. I
 
 ---
 ### Kaggle Competetion: Natural Language Processing with Disaster Tweets
-<a href="https://www.kaggle.com/code/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert/notebook?scriptVersionId=113379465" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+<iframe src="https://www.kaggle.com/embed/afi1289/nlp-with-disaster-tweets-cleaning-tf-idf-and-bert?kernelSessionId=111093250" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="NLP with Disaster Tweets: Cleaning,TF-IDF and BERT"></iframe>
 
 
-<div style="text-align: justify">I performed a quick exploratory data analysis to understand the dataset, performed text cleaning, and fine-tuned BERT to predict which tweets are about real disasters and which are not. My best model had an F1 score of 0.84308, ranking 37th out of 904, or approximately in the top 4% on the Kaggle leaderboard. This notebook provides a beginner-friendly explanation of concepts such as cross-validation, hyperparameter tuning, and fine-tuning transformer-based models.</div>
+<div style="text-align: justify">I performed a quick exploratory data analysis to understand the dataset, performed text cleaning, and fine-tuned BERT to predict which tweets are about real disasters and which are not. My best model had an F1 score of 0.84523, ranking 37th out of 904, or approximately in the top 4% on the Kaggle leaderboard. This notebook provides a beginner-friendly explanation of concepts such as cross-validation, hyperparameter tuning, and fine-tuning transformer-based models.</div>
 
 <center><img src="images/nlp-disaster.png"/></center>
 

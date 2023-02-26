@@ -29,7 +29,7 @@ This is a starter notebook for natural language processing in text processing. I
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">This notebook on Kaggle is a complete guide for extracting and analyzing Twitter data related to a specific topic. It focuses on scraping tweets about HBO's 'House of the Dragon' series using the Twitter API v2 and updates the dataset daily. The notebook also covers text preprocessing techniques to clean the data and presents various analyses, such as identifying the most mentioned characters and their frequency in the tweets.</div>
 <br>
 <center><img src="https://github.com/ahmad-alismail/ahmad-alismail.github.io/blob/master/images/house_of_the_dragon.png?raw=true"></center>
 <br>

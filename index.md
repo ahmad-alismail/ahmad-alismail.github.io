@@ -31,7 +31,7 @@ This is a starter notebook for natural language processing in text processing. I
 
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="https://github.com/ahmad-alismail/ahmad-alismail.github.io/blob/master/images/house_of_the_dragon.png?raw=true"></center>
 <br>
 
 ---

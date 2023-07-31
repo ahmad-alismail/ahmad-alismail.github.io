@@ -12,6 +12,7 @@ Podcast Analyzer is a tool built with Streamlit, Whisper, LangChain to analyze t
 <div style="text-align:center;"><img src="images/podcast_demo1.gif" width="500" height="400"/></div>
 
 
+---
 
 ### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python
 

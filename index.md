@@ -5,11 +5,11 @@
 ### Podcast Analyzer
 
 <a href="https://podcastmaster.streamlit.app/" target="_blank"><img align="left" alt="Streamlit" title="Open in Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"></a>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/podcast-analyzer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/podcast_analyzer)
 
 Podcast Analyzer is a tool built with Streamlit, Whisper, LangChain to analyze the content of podcasts. The app transcribes YouTube links using the Whisper ASR API, displays transcriptions, identifies named entities, answers questions about the content, and provides a summary and topic modeling of the podcast content. 
 
-<center><img src="images/podcast_demo.gif"/></center>
+<div style="text-align:center;"><img src="imgs/live_demo.gif" width="500" height="400"/></div>
 
 
 

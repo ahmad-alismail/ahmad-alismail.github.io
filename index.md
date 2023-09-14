@@ -28,7 +28,7 @@ It contains the following sections:
 - **Feature Dependence (🔍)**: Examine how different features interact within the model.
 - **What If (❓)**: Conduct 'What-If' analyses to understand how changes in feature values could affect predictions.
 
-<div style="text-align:center;"><img src="images/podcast_demo1.gif" width="500" height="400"/></div>
+<div style="text-align:center;"><img src="images/shap_explainer.gif" width="500" height="400"/></div>
 
 ---
 ### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python

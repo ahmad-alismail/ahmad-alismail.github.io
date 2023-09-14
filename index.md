@@ -13,7 +13,24 @@ Podcast Analyzer is a tool built with Streamlit, Whisper, LangChain to analyze t
 
 
 ---
+## Explainable AI
 
+### SHAP Explainer
+
+<a href="https://shap-explainer.streamlit.app/" target="_blank"><img align="left" alt="Streamlit" title="Open in Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"></a>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ahmad-alismail/shap-explainer)
+This app is a starter guide for understanding and explaining regression models using SHAP values. 
+It contains the following sections:
+
+- **Feature Importance (📊)**: Analyze the significance of different features in the model.
+- **Regression Stats (📈)**: Get statistical summaries and evaluations for the model.
+- **Individual Predictions (👥)**: Generate and view individual predictions.
+- **Feature Dependence (🔍)**: Examine how different features interact within the model.
+- **What If (❓)**: Conduct 'What-If' analyses to understand how changes in feature values could affect predictions.
+
+<div style="text-align:center;"><img src="images/podcast_demo1.gif" width="500" height="400"/></div>
+
+---
 ### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python
 
 <a href="https://www.kaggle.com/code/afi1289/comprehensive-guide-to-text-preprocessing-with?kernelSessionId=116194145" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>

@@ -9,7 +9,7 @@
 
 Podcast Analyzer is a tool built with Streamlit, Whisper, LangChain to analyze the content of podcasts. The app transcribes YouTube links using the Whisper ASR API, displays transcriptions, identifies named entities, answers questions about the content, and provides a summary and topic modeling of the podcast content. 
 
-<div style="text-align:center;"><img src="images/podcast_demo1.gif" width="500" height="400"/></div>
+<div style="text-align:center;"><img src="images/podcast_demo1.gif" width="900" height="400"/></div>
 
 
 ---
@@ -28,7 +28,7 @@ It contains the following sections:
 - **Feature Dependence (🔍)**: Examine how different features interact within the model.
 - **What If (❓)**: Conduct 'What-If' analyses to understand how changes in feature values could affect predictions.
 
-<div style="text-align:center;"><img src="images/shap_explainer.gif" width="500" height="400"/></div>
+<div style="text-align:center;"><img src="images/shap_explainer.gif" width="900" height="400"/></div>
 
 ---
 ### Kaggle Notebook: Comprehensive Guide to Text Preprocessing with Python
